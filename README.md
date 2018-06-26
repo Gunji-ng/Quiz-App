@@ -1,6 +1,8 @@
 # Quiz-App
 Andela Learning Community (ALC) #7DaysofCodeChallenge
 
+APK link: https://drive.google.com/open?id=1i0LAZ1A1JEigx_U-uF6ZkhknFxhkFLkc
+
 This app has been submitted for the "ALC 7 Days of Code Challenge"
 as a requirement for the "Google Africa Challenge Scholarship: Android Basics" course
 hosted on Udacity and being monitored on Slack.
